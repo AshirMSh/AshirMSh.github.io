@@ -19,7 +19,7 @@ title = "Ashir Iqbal"
   headline = "Engineer. Builder. Writer."
   bio = "I write about the things I build and the lessons I pick up along the way."
   links = [
-    { github = "https://github.com/yourusername" },
+    { github = "https://github.com/AshirMSh" },
     { linkedin = "https://www.linkedin.com/in/yourusername" },
     { email = "mailto:you@example.com" },
   ]

@@ -3,8 +3,7 @@
 
 theme = "blowfish"
 
-# TODO: replace with your final GitHub Pages URL, e.g. https://<username>.github.io/
-baseURL = "https://yourusername.github.io/"
+baseURL = "https://AshirMSh.github.io/"
 
 defaultContentLanguage = "en"
 disableLanguages = []
