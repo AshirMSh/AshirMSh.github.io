@@ -1,0 +1,17 @@
+# Hugo build output
+/public/
+/resources/
+.hugo_build.lock
+
+# Hugo module cache (if using Hugo Modules)
+/hugo_stats.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Node (only relevant if you later add postcss/tailwind tooling)
+node_modules/
+npm-debug.log*

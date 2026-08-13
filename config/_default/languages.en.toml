@@ -1,0 +1,25 @@
+label = "English"
+weight = 1
+title = "Ashir Iqbal"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png" # TODO: add assets/img/logo.png and uncomment to show a custom logo
+  description = "Personal blog and portfolio of Ashir Iqbal \u2014 notes, experiences, and projects."
+
+[params.author]
+  name = "Ashir Iqbal"
+  # TODO: update email, headline, bio and social links below.
+  # TODO: add assets/img/author.jpg and uncomment the line below to show a profile photo.
+  # image = "img/author.jpg"
+  email = "you@example.com"
+  headline = "Engineer. Builder. Writer."
+  bio = "I write about the things I build and the lessons I pick up along the way."
+  links = [
+    { github = "https://github.com/yourusername" },
+    { linkedin = "https://www.linkedin.com/in/yourusername" },
+    { email = "mailto:you@example.com" },
+  ]
