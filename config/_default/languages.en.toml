@@ -1,25 +1,23 @@
 label = "English"
 weight = 1
-title = "Ashir M Sharjeel"
+title = "M Sharjeel Ashir"
 
 [params]
   displayName = "English"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png" # TODO: add assets/img/logo.png and uncomment to show a custom logo
-  description = "Personal blog and portfolio of Ashir Iqbal \u2014 notes, experiences, and projects."
+  # logo = "img/logo.png" # add assets/img/logo.png and uncomment to show a custom logo in the header
+  description = "M Sharjeel Ashir \u2014 Data Center & Energy Systems Engineer specializing in Model-Based Design, formal verification, and DevOps."
 
 [params.author]
-  name = "Ashir Iqbal"
-  # TODO: update email, headline, bio and social links below.
-  # TODO: add assets/img/author.jpg and uncomment the line below to show a profile photo.
-  # image = "img/author.jpg"
-  email = "you@example.com"
-  headline = "Engineer. Builder. Writer."
-  bio = "I write about the things I build and the lessons I pick up along the way."
+  name = "M Sharjeel Ashir"
+  image = "img/author.jpg"
+  headline = "Data Center Engineer :: Model-Based Design, Controls & DevOps"
+  bio = "Energy and Data Center Systems Engineer specializing in Model-Based Design, formal verification, and DevOps. I build MPC-based control and optimization solutions for DC UPS, microgrids, and bidirectional EV charging \u2014 and design energy management and orchestration for data centers that improve reliability and speed up deployment."
+  email = "msharjeelashir@gmail.com"
   links = [
+    { linkedin = "https://www.linkedin.com/in/m-sharjeel-ashir/" },
     { github = "https://github.com/AshirMSh" },
-    { linkedin = "https://www.linkedin.com/in/yourusername" },
-    { email = "mailto:you@example.com" },
+    { email = "mailto:msharjeelashir@gmail.com" },
   ]

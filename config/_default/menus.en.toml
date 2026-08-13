@@ -2,8 +2,8 @@
 # Displayed in the header at the top of every page.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "About"
+  pageRef = "about"
   weight = 10
 
 [[main]]
@@ -12,6 +12,6 @@
   weight = 20
 
 [[main]]
-  name = "About"
-  pageRef = "about"
+  name = "Blog"
+  pageRef = "posts"
   weight = 30

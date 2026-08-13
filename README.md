@@ -85,5 +85,15 @@ Deployment is automated via [`.github/workflows/hugo.yml`](.github/workflows/hug
 
 Before your first deploy, update:
 
-- `baseURL` in `config/_default/hugo.toml`
+- `baseURL` in `config/_default/hugo.toml` (must match `https://<your-github-username>.github.io/`)
 - Author name/bio/social links in `config/_default/languages.en.toml`
+
+## Adding photos
+
+- **Profile/headshot**: `assets/img/author.jpg`, referenced by `params.author.image` in `config/_default/languages.en.toml`. Hugo automatically resizes/crops this one.
+- **Other photos** (project screenshots, blog images, etc.): put them in `static/images/` and reference them as `/images/your-file.jpg` in Markdown. Don't put photos in `data/` — that folder is reserved for structured data files (YAML/JSON/TOML) and Hugo will fail to build if it finds an image there.
+
+## Color scheme
+
+The site uses a custom **olive** color scheme defined in `assets/css/schemes/olive.css` (primary = olive green, secondary = warm gold, neutrals = warm stone). Selected via `colorScheme = "olive"` in `config/_default/params.toml`. Edit the RGB triples in that file to adjust the palette, or set `colorScheme` to any of the built-in Blowfish schemes (`avocado`, `forest`, `ocean`, `slate`, etc. — see `themes/blowfish/assets/css/schemes/`).
+
