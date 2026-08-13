@@ -11,11 +11,21 @@ cd AshirWebsiteHugo
 
 Already cloned but missing the theme? `git submodule update --init --recursive`
 
-Hugo not on your PATH? Add it once (adjust the path to wherever it's installed):
+Hugo not on your PATH? Add it once (adjust the path to wherever it's installed — on this machine it's `C:\Users\SESA800407\AppData\Local\Microsoft\WinGet\Packages\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe`):
 
 ```powershell
-[Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\path\to\hugo\folder", "User")
+$hugoDir = "C:\Users\SESA800407\AppData\Local\Microsoft\WinGet\Packages\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe"
+$userPath = [Environment]::GetEnvironmentVariable("Path", "User")
+[Environment]::SetEnvironmentVariable("Path", "$userPath;$hugoDir", "User")
 ```
+
+**Important:** this only affects *new* terminals. Close every open terminal/PowerShell window (and restart VS Code if `hugo` still isn't found) so the next one you open picks up the change. To use `hugo` immediately in your *current* terminal without restarting anything:
+
+```powershell
+$env:Path += ";C:\Users\SESA800407\AppData\Local\Microsoft\WinGet\Packages\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe"
+```
+
+(this temporary fix only lasts for that one terminal session)
 
 ## 2. Run the site locally
 
@@ -131,3 +141,4 @@ git push
 - Future-dated content won't show in production → either change the date or run locally with `--buildFuture`.
 - Build fails mentioning `data/...unmarshal` → you put a non-data file (image, etc.) inside `data/`. Move it to `static/` or `assets/` instead.
 - Colors look off → confirm `colorScheme = "olive"` in `params.toml` matches the filename `assets/css/schemes/olive.css`.
+- `hugo : The term 'hugo' is not recognized...` → PATH was updated but this terminal predates the change. Open a brand-new terminal window/tab (or restart VS Code), or use the one-liner in step 1 to fix the current session only.
