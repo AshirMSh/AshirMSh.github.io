@@ -1,5 +1,5 @@
 ---
-title: "Vocation"
+title: "Career"
 showTableOfContents: true
 showAuthor: false
 cardView: true
@@ -7,9 +7,9 @@ groupByYear: true
 layout: "list"
 ---
 
-*Vocation* — from the Latin **vocare**, "to call." This is the engineering path I've followed so far: the roles, the problems worth solving, and the systems I've helped bring to life.
+*Vocation* — from the Latin **vocare**, "to call." In a way engineering has been my calling since childhood: solving puzzles, building LEGO cars, and using old toy motors to craft fans on hot summer days. Eventually years later , I did designed and drove my own car, ventured into wind power, but ultimately, the puzzles kept pulling me back. That led me to become an Energy Systems engineer , arguably the most complex (and exciting) puzzle I've encountered on which I continoue to work. Here's my engineering journey: from universities to the projects I've built and the impact I've made.
 
-## The Journey
+## Professional Journey
 
 {{< timeline >}}
 
@@ -63,6 +63,6 @@ Control Systems – Global UGRAD Exchange · *Aug 2022 – Aug 2023* · CGPA 4.0
 - GitHub Actions Specialization
 - Stanford Machine Learning Certification
 
-## Case Studies
+## Projects
 
 A closer look at some of the systems and models built along the way:

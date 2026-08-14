@@ -176,6 +176,88 @@ html.dark .site-section-reflections::before {
   transition: transform 0.2s ease;
 }
 
+/* ============================================================== 
+   Homepage hero: remove boxed container and bleed across viewport
+   ============================================================== */
+.site-section-home article .relative > .mx-auto.max-w-7xl {
+  max-width: none;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+}
+
+.site-section-home article .relative > .mx-auto.max-w-7xl > .relative {
+  border-radius: 0;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.site-section-home article .relative > .mx-auto.max-w-7xl > .relative > div:last-child {
+  min-height: 70vh;
+}
+
+/* Remove the last top/bottom bands around the hero on home only. */
+.site-section-home {
+  background-color: rgb(var(--color-neutral));
+  overflow-x: hidden;
+}
+
+html.dark .site-section-home {
+  background-color: rgb(var(--color-neutral-800));
+}
+
+.site-section-home #menu-blur {
+  border-bottom-color: transparent !important;
+  background-color: rgba(var(--color-neutral), 0.62);
+}
+
+html.dark .site-section-home #menu-blur {
+  background-color: rgba(var(--color-neutral-800), 0.62);
+}
+
+/* In light mode, keep the hero treatment bright (career-like white canvas). */
+html:not(.dark) .site-section-home article .relative > .mx-auto.max-w-7xl > .relative > .absolute.inset-0 > div.absolute.inset-0 {
+  background-image: linear-gradient(
+    to right,
+    rgba(78, 106, 36, 0.28),
+    rgba(132, 116, 47, 0.24)
+  ) !important;
+  mix-blend-mode: multiply;
+}
+
+html:not(.dark) .site-section-home article .relative > .mx-auto.max-w-7xl > .relative > .absolute.inset-0 > img {
+  opacity: 0.3;
+  filter: grayscale(1) sepia(1) saturate(4.2) hue-rotate(22deg) brightness(1.06)
+    contrast(0.88);
+}
+
+html:not(.dark) .site-section-home article h1,
+html:not(.dark) .site-section-home article h2,
+html:not(.dark) .site-section-home article p {
+  color: rgba(32, 39, 30, 0.92) !important;
+}
+
+html:not(.dark) .site-section-home article .prose-invert {
+  color: rgba(32, 39, 30, 0.92) !important;
+}
+
+html:not(.dark) .site-section-home article .mt-3.mb-10 a {
+  color: rgba(58, 76, 36, 0.95) !important;
+}
+
+.site-section-home main#main-content,
+.site-section-home main#main-content > article,
+.site-section-home article.prose {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.site-section-home article .relative > .mx-auto.max-w-7xl > .relative > div:last-child {
+  min-height: calc(100vh - 4.75rem + 2px);
+}
+
 /* ==============================================================
    Homepage road cards
    ============================================================== */

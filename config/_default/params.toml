@@ -21,8 +21,8 @@ smartTOC = true
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
-  showMenu = true
-  showCopyright = true
+  showMenu = false
+  showCopyright = false
   showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
@@ -36,7 +36,7 @@ smartTOC = true
   showViews = false
   showLikes = false
   showAuthor = true
-  showHero = true
+  showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = true
   showDraftLabel = true
