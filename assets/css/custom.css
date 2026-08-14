@@ -175,3 +175,96 @@ html.dark .site-section-reflections::before {
   transform: translateY(-4px);
   transition: transform 0.2s ease;
 }
+
+/* ==============================================================
+   Homepage road cards
+   ============================================================== */
+.home-road-cards {
+  margin-top: 1.25rem;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  width: 100%;
+}
+
+.home-road-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 0.4rem;
+  overflow: hidden;
+  border-radius: 1rem;
+  width: 100%;
+  min-height: 12rem;
+  padding: 1.6rem;
+  color: rgb(255, 255, 255) !important;
+  text-decoration: none !important;
+  background-image:
+    linear-gradient(140deg, rgba(20, 38, 28, 0.78), rgba(107, 92, 43, 0.55)),
+    url("/images/OlivefloralTile.png");
+  background-size:
+    cover,
+    320px 320px;
+  background-position:
+    center,
+    center;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.16);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    background-size 0.25s ease;
+}
+
+.home-road-card h3 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  color: inherit;
+}
+
+.home-road-card p {
+  margin: 0;
+  line-height: 1.55;
+  max-width: 44rem;
+  color: rgba(255, 255, 255, 0.95);
+}
+
+.home-road-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 34px rgba(0, 0, 0, 0.2);
+  background-size:
+    cover,
+    360px 360px;
+}
+
+.home-road-card-career {
+  background-image:
+    linear-gradient(130deg, rgba(19, 46, 35, 0.82), rgba(116, 79, 21, 0.58)),
+    url("/images/OlivefloralTile.png");
+  background-position:
+    center,
+    left top;
+}
+
+.home-road-card-writings {
+  background-image:
+    linear-gradient(155deg, rgba(13, 49, 55, 0.78), rgba(138, 98, 34, 0.5)),
+    url("/images/OlivefloralTile.png");
+  background-position:
+    center,
+    center;
+}
+
+.home-road-card-life {
+  background-image:
+    linear-gradient(145deg, rgba(34, 62, 36, 0.78), rgba(91, 61, 20, 0.55)),
+    url("/images/OlivefloralTile.png");
+  background-position:
+    center,
+    right bottom;
+}

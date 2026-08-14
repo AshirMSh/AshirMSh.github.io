@@ -1,0 +1,4 @@
+# Enable raw HTML in markdown content so custom card markup renders.
+[goldmark]
+  [goldmark.renderer]
+    unsafe = true
