@@ -2,16 +2,16 @@
 # Displayed in the header at the top of every page.
 
 [[main]]
-  name = "About"
-  pageRef = "about"
+  name = "Vocation"
+  pageRef = "vocation"
   weight = 10
 
 [[main]]
-  name = "Projects"
-  pageRef = "projects"
+  name = "Reflections"
+  pageRef = "reflections"
   weight = 20
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "Wanderings"
+  pageRef = "wanderings"
   weight = 30

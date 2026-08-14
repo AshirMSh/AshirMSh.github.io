@@ -13,8 +13,8 @@ title = "M Sharjeel Ashir"
 [params.author]
   name = "M Sharjeel Ashir"
   image = "img/author.jpg"
-  headline = "Data Center Engineer :: Model-Based Design, Controls & DevOps"
-  bio = "Energy and Data Center Systems Engineer specializing in Model-Based Design, formal verification, and DevOps. I build MPC-based control and optimization solutions for DC UPS, microgrids, and bidirectional EV charging \u2014 and design energy management and orchestration for data centers that improve reliability and speed up deployment."
+  headline = "Live the Questions!"
+  bio = "Hello! I am an engineer by profession, with an interest in philosophy. I like to examine life, create things, challenge established ideas, and in the process, discover myself. Cogito, ergo sum \u2014 to exist requires us to think, and thinking, in turn, gives us our existence."
   email = "msharjeelashir@gmail.com"
   links = [
     { linkedin = "https://www.linkedin.com/in/m-sharjeel-ashir/" },

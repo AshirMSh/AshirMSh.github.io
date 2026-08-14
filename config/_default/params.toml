@@ -9,7 +9,7 @@ enableSearch = true
 enableCodeCopy = true
 
 # Sections listed on the homepage / used for "recent posts" style listings.
-mainSections = ["posts", "projects"]
+mainSections = ["vocation", "reflections", "wanderings"]
 
 disableImageOptimization = false
 defaultBackgroundImage = "/img/background.svg"
@@ -29,11 +29,7 @@ smartTOC = true
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
-  showRecent = true
-  showRecentItems = 6
-  showMoreLink = true
-  showMoreLinkDest = "projects"
-  cardView = true
+  showRecent = false
 
 [article]
   showDate = true
@@ -60,7 +56,7 @@ smartTOC = true
   showBreadcrumbs = true
   showSummary = true
   showTableOfContents = true
-  showCards = true
+  showCards = false
   orderByWeight = false
   groupByYear = true
   cardView = true

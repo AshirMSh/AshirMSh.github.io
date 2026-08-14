@@ -1,0 +1,177 @@
+/* ============================================================
+   Site-wide typography, spacing, and section theming overrides.
+   Loaded after the Blowfish bundle (see theme's head.html), so
+   rules here win over the theme defaults without touching the
+   theme submodule.
+   ============================================================ */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap");
+
+/* ---------- Sitewide font ---------- */
+body {
+  font-family:
+    "Poppins",
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    sans-serif;
+}
+
+/* ---------- Remove the "boxed" look: hard borders & heavy shadows ---------- */
+.article-link--card,
+.article-link--related {
+  border-color: transparent !important;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+.article-link--card:hover,
+.article-link--related:hover {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.09);
+  transition: box-shadow 0.2s ease;
+}
+.term-link-card,
+[class*="term-link"] .border-2 {
+  border-width: 1px !important;
+  border-color: rgb(var(--color-neutral-200)) !important;
+  box-shadow: none !important;
+}
+/* Tag/category thumbnail cards (theme's term-link/card.html has no stable class name) */
+.border-2.rounded.overflow-hidden.shadow-2xl {
+  border-width: 1px !important;
+  border-color: rgb(var(--color-neutral-200)) !important;
+  box-shadow: none !important;
+}
+
+/* ==============================================================
+   1. VOCATION — the professional journey (career, projects, CV)
+   ============================================================== */
+.site-section-vocation .timeline-item::marker,
+.site-section-vocation ol {
+  border-color: rgb(var(--color-primary-500));
+}
+.site-section-vocation h1,
+.site-section-vocation h2,
+.site-section-vocation h3 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+/* Give the journey timeline a touch more breathing room and a warmer rule color */
+.site-section-vocation ol.border-s-2 {
+  border-image: linear-gradient(
+      to bottom,
+      rgb(var(--color-primary-400)),
+      rgb(var(--color-secondary-500))
+    )
+    1 100%;
+}
+
+/* ==============================================================
+   2. REFLECTIONS — philosophy, essays & quotes
+   Isfahan-tilework-inspired backdrop + Substack-style reading column
+   ============================================================== */
+.site-section-reflections {
+  position: relative;
+}
+.site-section-reflections::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  opacity: 0.5;
+  background-color: rgb(252, 250, 242);
+  background-image:
+    repeating-linear-gradient(
+      45deg,
+      rgba(148, 116, 22, 0.08) 0 2px,
+      transparent 2px 28px
+    ),
+    repeating-linear-gradient(
+      -45deg,
+      rgba(15, 118, 110, 0.08) 0 2px,
+      transparent 2px 28px
+    ),
+    radial-gradient(
+      circle at center,
+      rgba(180, 145, 30, 0.16) 0 3px,
+      transparent 4px
+    );
+  background-size:
+    28px 28px,
+    28px 28px,
+    28px 28px;
+}
+html.dark .site-section-reflections::before {
+  background-color: rgb(30, 29, 24);
+  opacity: 0.35;
+}
+/* A quiet geometric band behind the fixed header, evoking Isfahan tilework */
+.site-section-reflections #menu-blur {
+  background-image:
+    repeating-linear-gradient(
+      45deg,
+      rgba(217, 180, 55, 0.16) 0 2px,
+      transparent 2px 22px
+    ),
+    repeating-linear-gradient(
+      -45deg,
+      rgba(15, 118, 110, 0.16) 0 2px,
+      transparent 2px 22px
+    );
+  background-size:
+    22px 22px,
+    22px 22px;
+}
+
+/* Substack-like article column: serif reading font, generous leading, narrower measure */
+.site-section-reflections article .prose,
+.site-section-reflections .prose {
+  font-family: "Lora", Georgia, "Times New Roman", serif;
+  font-size: 1.125rem;
+  line-height: 1.85;
+}
+.site-section-reflections article .prose h1,
+.site-section-reflections .prose h1 {
+  font-family: "Lora", Georgia, serif;
+  font-style: italic;
+  font-weight: 600;
+}
+.site-section-reflections blockquote {
+  font-family: "Lora", Georgia, serif;
+  font-style: italic;
+  color: rgb(var(--color-primary-700));
+  border-inline-start-color: rgb(var(--color-secondary-500));
+}
+
+/* ==============================================================
+   3. WANDERINGS — travel & community, Pinterest-style board
+   ============================================================== */
+.site-section-wanderings section.grid {
+  display: block;
+  column-count: 1;
+  column-gap: 1.25rem;
+}
+@media (min-width: 640px) {
+  .site-section-wanderings section.grid {
+    column-count: 2;
+  }
+}
+@media (min-width: 1024px) {
+  .site-section-wanderings section.grid {
+    column-count: 3;
+  }
+}
+.site-section-wanderings section.grid > .article-link--card {
+  display: inline-block;
+  width: 100%;
+  break-inside: avoid;
+  margin-bottom: 1.25rem;
+  border-radius: 1rem;
+}
+.site-section-wanderings .thumbnail_card {
+  aspect-ratio: 3 / 4 !important;
+  border-radius: 1rem 1rem 0 0;
+}
+.site-section-wanderings .article-link--card:hover {
+  transform: translateY(-4px);
+  transition: transform 0.2s ease;
+}
