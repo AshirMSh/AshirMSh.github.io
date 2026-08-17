@@ -201,6 +201,21 @@ html.dark .site-section-reflections::before {
   object-fit: cover;
 }
 
+/* Keep article galleries usable on narrow screens, including legacy inline sizes. */
+@media (max-width: 900px) {
+  article .prose img {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    object-fit: contain !important;
+  }
+
+  article .prose > div[style*="display: flex"] {
+    flex-wrap: wrap;
+    gap: 1rem !important;
+  }
+}
+
 @media (max-width: 900px) {
   .site-section-wanderings .community-service-layout {
     grid-template-columns: 1fr;
