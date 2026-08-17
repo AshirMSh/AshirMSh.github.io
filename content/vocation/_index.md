@@ -81,7 +81,7 @@ and developing heuristic controller software for automation of storage and disch
 </div>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="lightbulb" header="Enginnering Lead" badge="Jul 2020 – May 2022" subheader="power Walk - NSTP Startup · Islamabad, Pakistan" md="true" >}}
+{{< timelineItem icon="lightbulb" header="Enginnering Intern" badge="Jul 2020 – May 2022" subheader="Power Walk - NSTP Startup · Islamabad, Pakistan" md="true" >}}
 At this student-led energy technology startup in Pakistan's premier Science and Technology Park, I led the technical design of an innovative vibrational harvesting device that converts walking into electrical power. This role provided invaluable exposure to the full product lifecycle—from technical design and engineering leadership to manufacturing feasibility, cost optimization, and market strategy. I learned that great engineering isn't just about what *can* be done, but what *should* be done. Here are my key contributions: 
 
 - Architected mechanical and electrical systems for piezoelectric micro-generators, converting kinetic motion into electrical output for lighting and auxiliary applications.
@@ -91,7 +91,7 @@ At this student-led energy technology startup in Pakistan's premier Science and 
 
 <div style="display: flex; gap: 20px; justify-content: center;">
   <img src="Powerwalk1.jpg" alt="BV1  Photo" style="width: 400px; height: 300px; object-fit: cover;">
-  <img src="PowerWalk2.jpg" alt="AIHub2  Photo" style="width: 300px; height: 300px; object-fit: cover;">
+  <img src="PowerWalk2.JPG" alt="AIHub2  Photo" style="width: 300px; height: 300px; object-fit: cover;">
 </div>
 {{< /timelineItem >}}
 
