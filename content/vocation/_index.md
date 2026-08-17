@@ -42,10 +42,15 @@ Key achievements include:
 - Developed and implemented stochastic optimization framework to predict EV usage patterns under variable constraints, reducing emissions and operational costs by **up to 60%**.
 - Perfoeld studies with Sustainability Research Institute on energy market modeling, quantifying **20–30% residential energy savings** and authoring research papers that informed internal and external policy decisions.
 
+Download the Detailed Report here : 
+
+[📄 Download: Bidirectional EV MCP Research](BidirectionalEVMCP.pdf)
+
 <div style="display: flex; gap: 20px; justify-content: center;">
   <img src="AIHub1.jpg" alt="AIHub1  Photo" style="width: 300px; height: 300px; object-fit: cover;">
   <img src="AIHub2.png" alt="AIHub2  Photo" style="width: 600px; height: 300px; object-fit: cover;">
 </div>
+
 
 {{< /timelineItem >}}
 
