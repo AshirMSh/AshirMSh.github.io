@@ -16,6 +16,6 @@ showfigure: true
   </div>
   <div class="community-service-media">
     <img src="/wanderings/Skardu1.jpeg" alt="Deabtes Opera Photo">
-    <img src="/wanderings/Skardu2.jpg" alt="Debates Dinner Photo">
+    <img src="/wanderings/Skardu2.JPG" alt="Debates Dinner Photo">
   </div>
 </div>
