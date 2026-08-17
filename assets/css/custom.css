@@ -176,6 +176,41 @@ html.dark .site-section-reflections::before {
   transition: transform 0.2s ease;
 }
 
+/* Single story layout: text on the left, images on the right. */
+.site-section-wanderings .community-service-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.45fr) minmax(280px, 1fr);
+  align-items: start;
+  gap: 2rem;
+}
+
+.site-section-wanderings .community-service-copy {
+  min-width: 0;
+}
+
+.site-section-wanderings .community-service-media {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.site-section-wanderings .community-service-media img {
+  width: 100%;
+  max-width: 420px;
+  height: auto;
+  object-fit: cover;
+}
+
+@media (max-width: 900px) {
+  .site-section-wanderings .community-service-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .site-section-wanderings .community-service-media img {
+    max-width: 100%;
+  }
+}
+
 /* ============================================================== 
    Homepage hero: remove boxed container and bleed across viewport
    ============================================================== */

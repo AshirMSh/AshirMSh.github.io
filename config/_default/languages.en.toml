@@ -13,8 +13,9 @@ title = "Ashir M Sharjeel"
 [params.author]
   name = "Ashir M Sharjeel"
   image = "img/author.jpg"
-  headline = "*Live the Questions!*"
-  bio = "Hello! I am an engineer by profession, with an interest in philosophy. I like to examine life, create things, challenge established ideas, and in the process, discover myself. Cogito, ergo sum \u2014 to exist requires us to think, and thinking, in turn, gives us our existence."
+
+  headline = "*Live the Questions !*"
+  bio = "Hello! I am an Engineer by profession, with an interest in philosophy. I like to examine life, create things, challenge established ideas, and in the process, discover myself. Cogito, ergo sum \u2014 to exist requires us to think, and thinking, in turn, gives us our existence."
   email = "msharjeelashir@gmail.com"
   links = [
     { linkedin = "https://www.linkedin.com/in/m-sharjeel-ashir/" },

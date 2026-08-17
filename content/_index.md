@@ -2,7 +2,8 @@
 title: "Ashir"
 ---
 
-Hello! I am an engineer by profession, with an interest in philosophy. I like to examine life, create things, challenge established ideas, and in the process, discover myself.I believe in *Cogito, ergo sum* - to exist is to think, and thinking, in turn, grants us very our existence.
+Hello!  
+I am an engineer by profession, but a wanderer by nature, drawn to a multitude of fields beyond my own. I like to examine life closely, to build things that did not exist before, and to question the ideas we too often take for granted, and in that process, to slowly uncover myself. I hold, quietly, to Descartes' *Cogito, ergo sum*: to exist is to think, and it is thought itself that grants us the privilege of existing at all.
 
 Three roads from here:
 

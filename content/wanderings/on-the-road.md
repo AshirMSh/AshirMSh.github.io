@@ -1,6 +1,7 @@
 ---
 title: "On the Road (More to Come)"
 date: 2026-08-14
+weight: 2
 draft: false
 tags: ["travel"]
 summary: "A placeholder for travel stories and photos — replace this with your own."
