@@ -3,11 +3,11 @@ title: "Career"
 showTableOfContents: true
 showAuthor: false
 cardView: true
-groupByYear: true
+groupByYear: false
 layout: "list"
 ---
 
-*Vocation* — from the Latin **vocare**, "to call." In a way engineering has been my calling since childhood: solving puzzles, building LEGO cars, and using old toy motors to craft fans on hot summer days. Eventually years later , I did designed and drove my own car, ventured into wind power, but ultimately, the puzzles kept pulling me back. That led me to become an Energy Systems engineer , arguably the most complex (and exciting) puzzle I've encountered on which I continoue to work. Here's my engineering journey: from universities to the projects I've built and the impact I've made.
+Career is called *Vocation* too — from the Latin **vocare**, "to call." In a way engineering has been my calling since childhood: solving puzzles, building LEGO cars, and using old toy motors to craft fans on hot summer days. Eventually years later , I did designed and drove my own car, ventured into wind power, but ultimately, the puzzles kept pulling me back. That led me to become an Energy Systems engineer , arguably the most complex (and exciting) puzzle I've encountered on which I continoue to work. Here's my engineering journey: from universities to the projects I've built and the impact I've made.
 
 ## Professional Journey
 
@@ -73,6 +73,20 @@ and developing heuristic controller software for automation of storage and disch
 <div style="display: flex; gap: 20px; justify-content: center;">
   <img src="FF1.jpg" alt="BV1  Photo" style="width: 400px; height: 300px; object-fit: cover;">
   <img src="FF2.jpg" alt="AIHub2  Photo" style="width: 300px; height: 300px; object-fit: cover;">
+</div>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="lightbulb" header="Enginnering Lead" badge="Jul 2020 – May 2022" subheader="power Walk - NSTP Startup · Islamabad, Pakistan" md="true" >}}
+At this student-led energy technology startup in Pakistan's premier Science and Technology Park, I led the technical design of an innovative vibrational harvesting device that converts walking into electrical power. This role provided invaluable exposure to the full product lifecycle—from technical design and engineering leadership to manufacturing feasibility, cost optimization, and market strategy. I learned that great engineering isn't just about what *can* be done, but what *should* be done. Here are my key contributions: 
+
+- Architected mechanical and electrical systems for piezoelectric micro-generators, converting kinetic motion into electrical output for lighting and auxiliary applications.
+- Designed and validated prototypes through iterative testing and demonstration, securing 3 million in seed funding from venture investors.
+- Developed CAD-optimized designs for cost-effective manufacturing and scalable deployment across three pilot installation sites in the capital region.
+
+
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <img src="Powerwalk1.jpg" alt="BV1  Photo" style="width: 400px; height: 300px; object-fit: cover;">
+  <img src="PowerWalk2.jpg" alt="AIHub2  Photo" style="width: 300px; height: 300px; object-fit: cover;">
 </div>
 {{< /timelineItem >}}
 
