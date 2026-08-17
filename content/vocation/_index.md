@@ -44,7 +44,7 @@ Key achievements include:
 
 Download the Detailed Report here : 
 
-[📄 Download: Bidirectional EV MCP Research](BidirectionalEVMCP.pdf)
+[📄 Download: Bidirectional EV MCP Research](AshirEVBidirSchneiderElectric.pdf)
 
 <div style="display: flex; gap: 20px; justify-content: center;">
   <img src="AIHub1.jpg" alt="AIHub1  Photo" style="width: 300px; height: 300px; object-fit: cover;">
