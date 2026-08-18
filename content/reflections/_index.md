@@ -1,12 +1,14 @@
 ---
-title: "Reflections"
+title: "Wiritngs"
+featureimage: "isfahan2.jpg"
 showTableOfContents: false
 showAuthor: false
 cardView: false
 groupByYear: false
 ---
 
-> *"Live the questions themselves."*
-> — Rainer Maria Rilke, *Letters to a Young Poet*
+> *"How odd I can have all this inside me and to you it's just words."*
+> — David Foster Wallace, 
 
-Essays, quotes, and half-finished thoughts on philosophy, existence, and the questions I haven't answered yet — written between engineering problems.
+Essays and incomplete thoughts on philosophy and the wider questions I encounter. I write them in my notebook, without AI or the internet. I mean that not as a boast, but as a quiet confession: these ideas are unmistakably human, and may (as they must) contain factual errors and contradictions. Some are thoughts I have outgrown; others have unfolded into something new; and a few remain, like enduring windows, essential to my worldview.
+

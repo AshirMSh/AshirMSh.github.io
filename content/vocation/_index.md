@@ -15,14 +15,14 @@ Career is called *Vocation* too — from the Latin **vocare**, "to call." In a w
 
 {{< timelineItem icon="code" header="Data Centers Control Systems Engineer" badge="Jul 2025 – Present" subheader="Schneider Electric — Data Center and Secure Power Business · Grenoble, France" md="true" >}}
 I joined the Secure Power Business Unit at Schneider Electric to drive innovation through **Energy Spine**, a landmark program aimed at redefining electrical architecture for next-generation data centers.
-My journey progressed across three key dimensions: **Architecture Design** (control strategies for DC UPS and battery systems), **Software-Defined Power** (CI/CD pipelines, hardware-agnostic development, and HIL validation), and **Advanced Applications** (as an Electrifier Program expert, leveraging cooling flexibility for AI load optimization).
+My journey progressed across three key dimensions: **Architecture Design** (control strategies for DC UPS and battery systems), **Software-Defined Power** (CI/CD pipelines, hardware-agnostic development, and HIL validation), and **Advanced Applications** (as an Electrifier Program Project, leveraging cooling flexibility for AI load optimization).
 
 Key achievements include: 
 
 - Architecting next‑generation **800V DC microgrid and DC UPS** solutions for future data centers, translating customer requirements into end‑to‑end system architectures and technical specifications — securing **€50M in R&D funding**.
 - Designed and implemented **CI/CD pipelines** (GitHub Actions, Docker, RaaS) and a scalable verification and validation framework for **200K+ LOC** projects, cutting PLC code generation and validation time by up to **80%**.
 - Led **Hardware‑in‑the‑Loop (HIL)** validation framework development on Speedgoat real‑time hardware — timing analysis, fault injection, and requirements‑based verification — while training cross‑functional teams on HIL methodology.
-- Developed **AI‑driven load smoothing** algorithms for DC UPS systems, enabling ancillary services (FCR, FRR) and reducing peak demand by **18%**.
+- Developed **AI‑driven load smoothing** algorithms for DC UPS systems, enabling ancillary services (FCR, FRR) and reducing peak demand by **50%**.
 - Advancing control strategies for Liquid Cooling systems to optimize thermal inertia for enhanced power quality — an Electrifier Project initiative validated through rigorous validation protocols.
 
 <div style="display: flex; gap: 20px; justify-content: center;">
