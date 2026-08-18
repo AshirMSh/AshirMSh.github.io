@@ -20,7 +20,7 @@ The first and the oldest of the three is the Kalam Argument. As the name suggest
 > *Thus in a way **consciousness** is *'to be'*, while **intelligence** is the ability *'to do'*.”*
 
 <div class="community-service-media" style="text-align: center;">
-    <img src="/reflections/cosmos2.JPG" alt="Intelligence" style="width: 60%; height: auto; display: inline-block;">
+    <img src="/reflections/cosmos2.jpg" alt="Intelligence" style="width: 60%; height: auto; display: inline-block;">
 </div>
 
 The second argument is widely popularizd by Thomas Aquinas . At first, it may be easy to confuse it with the Kalam argument, but the difference is subtle yet significant. Instead of reasoning in the temporal dimension (which raises many questions about the nature of time), it tries to reason along the spatial dependency dimension , in terms of dependency and causation. Consider this: I am holding a pen; the pen depends on my hand;my hand depends on my arm; I depend on the ground/chair where I sit; the ground depends on Earth’s structure, and so on.Each element in this chain depends on something else for its existence or activity. By following this reasoning, we must approach a cause that is not dependent on any other cause (assumes that an infinite regression of causes is not possible); thus, at this very moment, there must exist a *“first cause”* or *"unmoved mover"* that is continuously sustaining everything. It does not explicitly depend on time and does not require the first cause to be the first event *in time*,but claims that a non-dependent clause must exists here and now.  Nevertheless , when the question of the birth of the universe is concerned, its response is rather similar to that of Kalam.
