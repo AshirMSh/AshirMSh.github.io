@@ -18,6 +18,7 @@ However, in contemporary times, two philosophers have managed to propose promisi
 Hume argues that all morality is based on sentiments. He wrote that *“Reason is, and ought to be, the slave of the passions.”* All reason is , is merely a vessel for desires, and moral judgment comes primarily from human feelings and sympathy. To Hume, stealing is immoral because it leads to feelings of disgust and sympathy for the person or victim who is stolen from. It is the collective reaction or emotion that a particular action arouses that decides the morality (or goodness/badness) of an action. We see this in action all the time: ask people what they think about killing insects, and you would very easily find that the moral judgment is skewed and differs significanlty for killing a butterfly or a cockroach, or for killing a cat and a sheep. When you witness this, you cannot help but wonder if Hume was right and moral judgment is merely an emotional reaction dressed up as reason. Hume argues that reason is itself a means for desire; it does not tell us what to want, but rather devises how to get what we desire.
 
 > *There are no moral phenomena at all, but only a moral interpretation of phenomena.*
+
 > *If ugliness dims the light of our compassion,*  
 > *and beauty makes the heart more willing to care,*  
 > *is morality forged in reason’s quiet fire—*  
@@ -48,7 +49,7 @@ Trying to judge between these two theories is like playing quantum mechanics wit
 
 
 Find the handwritten version of this essay here : 
-[ConsciossnessAndIntelligence]( /reflections/ConsciossnessAndIntelligence.pdf )
+[HumeAndKant_Morality]( /reflections/HumeAndKant.pdf )
 
 </div>
 
