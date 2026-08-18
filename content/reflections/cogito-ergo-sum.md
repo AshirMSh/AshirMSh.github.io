@@ -1,5 +1,5 @@
 ---
-title: "Cosmological Arguments - For the existence of Higher Being"
+title: "Cosmological Arguments - For the existence of a Higher Being"
 date: 2026-07-06
 draft: false
 #tags: ["philosophy", "descartes"]
