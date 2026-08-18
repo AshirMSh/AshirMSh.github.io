@@ -27,9 +27,9 @@ Our vehicle earned a **3rd place finish in the Design Challenge** at the Formula
 This project became a testament to our ability to conceptualize, deliver, and showcase innovative engineering solutions on the global stage. We didn't just build a race car; we inspired a generation of Pakistani engineers to dream bigger and reach higher. The journey highlighted Pakistan's growing capabilities in electric motorsports engineering and opened doors for future innovation in sustainable transportation technology. Years later the team continues to thrive.
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/vocation/EV1.jpg" alt="EV Car Photo 1" style="width: 300px; height: 300px; object-fit: cover;">
+  <img src="/vocation/EV1.JPG" alt="EV Car Photo 1" style="width: 300px; height: 300px; object-fit: cover;">
   <img src="/vocation/EV2.jpeg" alt="EV Car Photo 2" style="width: 300px; height: 300px; object-fit: cover;">
-  <img src="/vocation/EV3.jpg" alt="EV Car Photo 3" style="width: 400px; height: 300px; object-fit: cover;">
+  <img src="/vocation/EV3.JPG" alt="EV Car Photo 3" style="width: 400px; height: 300px; object-fit: cover;">
 </div>
 
 
