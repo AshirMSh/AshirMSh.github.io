@@ -172,6 +172,23 @@ html.dark .site-section-reflections blockquote {
   border-inline-start-color: rgb(var(--color-secondary-400));
 }
 
+/* Illustration cards across Reflections only; adjust each side independently. */
+.site-section-reflections .community-service-media {
+  --reflections-card-margin-top: 2rem;
+  --reflections-card-margin-right: 2rem;
+  --reflections-card-margin-bottom: 2rem;
+  --reflections-card-margin-left: 2rem;
+  margin: var(--reflections-card-margin-top)
+    var(--reflections-card-margin-right)
+    var(--reflections-card-margin-bottom)
+    var(--reflections-card-margin-left);
+}
+
+.site-section-reflections .justified-reflection > p {
+  text-align: justify;
+  hyphens: auto;
+}
+
 /* ==============================================================
    3. WANDERINGS — travel & community, Pinterest-style board
    ============================================================== */

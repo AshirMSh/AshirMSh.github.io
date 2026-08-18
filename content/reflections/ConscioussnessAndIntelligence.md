@@ -9,6 +9,8 @@ showauthor : false
 showTableOfContents: false
 ---
 
+<div class="justified-reflection">
+
 *“Would AI be conscious?”* is the new hot question in the town. This week Chat GPT 4.6 Sol was launched and a new standard of intelligence is set with it. Many people marvel at its ability to think and answer intelligently. It almost seems like it is more and more becoming a “being” capable of understanding, contextualizing and solving many great problems. Perhaps more so, it is its ability to demonstrate acts of emotional intelligent that is even more surprising. In midst of all of this, a question is being raised about its consciousness,whether it is aware of its own existence? Plenty of intellectuals, although still a minority, including Dawkins increasingly find themselves placing AI in the conscious circle of beings. With inevitable improvements in the models in the years to follow, it is perhaps a good time to inquire on the topic of consciousness, how it relates to intelligence and how can we recognize it.
 
 
@@ -33,4 +35,9 @@ Preluding to the comment made previously, there can be good reasons to question 
 > *Je doute, donc je pense; je pense, donc je suis.*
 
 Returning to our question about AI, I would argue that no amount of intelligence or mimicking of human emotions could defintively establish the consciousness of AI. Consciosssness requires a fundamental self-awareness , an ability to recongnize one's own existence. As of now , neither I nor anyone else in the world fully understands origins or mechanism of this capacity. It is probably not just the neurons , or an algorithm that an AI could replicate . At the same time , the very fact that the concept of conscioussess remains so hard to define , we rist overestimating it and potentially failing to recognize when (and if) it emerges in non-biological entities . 
+
+Find the handwritten version of this essay here : 
+[ConsciossnessAndIntelligence]( /reflections/ConsciossnessAndIntelligence.pdf )
+
+</div>
 
