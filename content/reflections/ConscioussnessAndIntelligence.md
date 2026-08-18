@@ -1,5 +1,5 @@
 ---
-title: "Intelligence And Consciousness Questions"
+title: "Intelligence And Consciousness"
 date: 2026-06-05
 draft: false
 #tags: ["quotes", "existentialism"]
