@@ -122,17 +122,29 @@ html.dark .site-section-reflections::before {
     22px 22px;
 }
 
-/* Use the section image as a readable, translucent page-top backdrop. */
+/* Adjustable hero fade: image stays clear at the top and fades behind text below. */
+.site-section-reflections .single_hero_background {
+  --reflections-hero-image-opacity: 1;
+  --reflections-hero-fade-start: 20%;
+  --reflections-hero-fade-opacity: 0.9;
+}
+
 .site-section-reflections .single_hero_background #background-image {
-  opacity: 0.4;
+  opacity: var(--reflections-hero-image-opacity);
 }
 
 .site-section-reflections .single_hero_background > div:nth-of-type(1) {
-  opacity: 0.3;
+  opacity: 1;
+  background-image: linear-gradient(
+    to bottom,
+    transparent 0,
+    transparent var(--reflections-hero-fade-start),
+    rgba(var(--color-neutral-800), var(--reflections-hero-fade-opacity)) 100%
+  ) !important;
 }
 
 .site-section-reflections .single_hero_background > div:nth-of-type(2) {
-  opacity: 0.1;
+  display: none;
 }
 
 /* Substack-like article column: serif reading font, generous leading, narrower measure */
