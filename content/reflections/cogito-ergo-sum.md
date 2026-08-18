@@ -17,7 +17,7 @@ I shall present three types of these cosmological arguments: *Kalam cosmological
 
 The first and the oldest of the three is the Kalam Argument. As the name suggests, it finds its origins in the Muslim tradition. Ibn Sina was amongst its earlier proponent, and in modern times William Lain Craig has reinvigorated it (you can even find his debates on YouTube). The strength of the argument perhaps lies in its simplicity. It draws on the principle of **causality**, i.e. *everything that exists has a beginning and a cause; the universe exists, thus it must have a beginning and a cause; this cause is an existence that precedes the universe and is God*. There is an inherent assumption that the principle of causality and birth holds outside of the physical universe as well. This seems to be the logical line of reasoning, and Occam’s Razor supports it as well. The scientific discoveries surrounding big bang in the last century granted some material weight to be argument , though like all arguments it remains a philosophical argument not a scientific one. The argument esatblishes a *'first cause / first move'* through which universe came into being , however I wonder how it further develops that into existence of a personal God (one who is omni-present and aware of your thaughts). *(I shall come back to this point in the future essays)*.
 
-> *Thus in a way **consciousness** is *'to be'*, while **intelligence** is the ability *'to do'*.”*
+
 
 <div class="community-service-media" style="text-align: center;">
     <img src="/reflections/cosmos2.jpg" alt="Intelligence" style="width: 60%; height: auto; display: inline-block;">
