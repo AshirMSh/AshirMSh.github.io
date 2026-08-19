@@ -19,10 +19,9 @@ My journey progressed across three key dimensions: **Architecture Design** (cont
 
 Key achievements include: 
 
-- Architecting next‑generation **800V DC microgrid and DC UPS** solutions for future data centers, translating customer requirements into end‑to‑end system architectures and technical specifications — securing **€50M in R&D funding**.
+- Architecting next‑generation controller for **800V DC microgrid and DC UPS** solutions for future data centers, translating customer requirements into end‑to‑end system architectures and technical specifications .
 - Designed and implemented **CI/CD pipelines** (GitHub Actions, Docker, RaaS) and a scalable verification and validation framework for **200K+ LOC** projects, cutting PLC code generation and validation time by up to **80%**.
-- Led **Hardware‑in‑the‑Loop (HIL)** validation framework development on Speedgoat real‑time hardware — timing analysis, fault injection, and requirements‑based verification — while training cross‑functional teams on HIL methodology.
-- Developed **AI‑driven load smoothing** algorithms for DC UPS systems, enabling ancillary services (FCR, FRR) and reducing peak demand by **50%**.
+- Led **Hardware‑in‑the‑Loop (HIL)** validation framework development on Speedgoat real‑time hardware — timing analysis, fault injection, and requirements‑based verification.
 - Advancing control strategies for Liquid Cooling systems to optimize thermal inertia for enhanced power quality — an Electrifier Project initiative validated through rigorous validation protocols.
 
 <div style="display: flex; gap: 20px; justify-content: center;">
