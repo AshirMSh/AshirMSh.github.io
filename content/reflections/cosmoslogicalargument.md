@@ -4,7 +4,7 @@ date: 2026-07-06
 draft: false
 #tags: ["philosophy", "descartes"]
 #categories: ["philosophy"]
-summary: "Ancient paths of reason toward the divine .Includes Kalaam, Aquinas, and Leibniz arguments that stand to this very day ."
+summary: "Reason as a tool to spirituality and discovery .Includes Kalaam, Aquinas, and Leibniz arguments that stand to this very day ."
 showTableOfContents: false
 showauthor : false 
 ---
