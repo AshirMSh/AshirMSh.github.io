@@ -1,5 +1,5 @@
 ---
-title: "Morality via Logic - Hume And Kant "
+title: "Morality via Logic : Hume And Kant "
 date: 2026-08-02
 draft: false
 #tags: ["quotes", "existentialism"]

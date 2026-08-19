@@ -1,43 +1,48 @@
 ---
-title: "Intelligence And Consciousness"
-date: 2026-06-05
+title: "Is Everything Purple ? "
+date: 2026-08-12
 draft: false
 #tags: ["quotes", "existentialism"]
 #categories: ["philosophy"]
-summary: "What does it mean to act, to understand, and to be? In the age of artificial intelligence, an ancient question awakens anew."
+summary: "The colors of visible light is defined by its wavelength and all colors exists on a linear spectrum , then why do we have color wheel instead of a color line ?"
 showauthor : false 
 showTableOfContents: false
 ---
 
 <div class="justified-reflection">
 
-*“Would AI be conscious?”* is the new hot question in the town. This week Chat GPT 4.6 Sol was launched and a new standard of intelligence is set with it. Many people marvel at its ability to think and answer intelligently. It almost seems like it is more and more becoming a “being” capable of understanding, contextualizing and solving many great problems. Perhaps more so, it is its ability to demonstrate acts of emotional intelligent that is even more surprising. In midst of all of this, a question is being raised about its consciousness,whether it is aware of its own existence? Plenty of intellectuals, although still a minority, including Dawkins increasingly find themselves placing AI in the conscious circle of beings. With inevitable improvements in the models in the years to follow, it is perhaps a good time to inquire on the topic of consciousness, how it relates to intelligence and how can we recognize it.
+The human brain is a fascinating object. Despite all the scientific advances we have made over the past few centuries, we still understand remarkably little about the brain,particularly about its ability to construct our experience of reality. Notice the word *“construct.”* What does it actually mean to say that the brain *“constructs or creates reality”*? To understand this, we first need to talk about colours.
 
+Colours are yet another fascinating thing, in all their simple beauty , they hold complex mysteries. Consider this question : *Why do we have color wheels instead of a color line?*. For one, when we study about electromagnetic spectrum , we learn that light can have different wavelengths and there is a small slice of this spectrum that we can visually experience. Termed the *“visible spectrum”*, it spans roughly from 380 nm to 700 nm, with violet at 380 nm and red at the higher wavelengths. You can essentially sweep across this spectrum to get any colour you want .Well, nearly any colour! **Purple** doesn’t exist on the spectrum! It just doesn’t exist in reality ! It is an entirely *“mental colour”*, produced in your brain when it senses a combination of blue/violet and red light. So, in a way, our brain takes the visible light spectrum and converts it into an experience that we perceive, with purple/magenta sitting between violet and red , connecting the two and converting the line into a wheel. (Color Cubes (3D) exist too when 3 colors are used to produce any possile colors , like RGB coddes we have in computers ,However, our experience of color is largely two-dimensional: we perceive hues along a color wheel, with a third dimension , lightness or darkness , adding depth to that experience.)
 
-Let us start by defining the two concepts first. From my understanding, intelligence pertains to the *ability of understanding and performing complex tasks*. An Iron (pressing iron) can be categorized intelligent if it can actively sense the temperature and perhaps the fabric too and adjust its operation based on that. Consciousness, on the other hand, is a much nuanced concept and relates to an *individual's ability to be aware of its own existence*. It is the sense you feel when you look at the mirror, or you close one eye and look (focus) at the sidewall of your eyebrows and nose, and you feel like peeking out of a window. Its the comical concept you find in superhero movies or cartoons when two characters exchange their bodies yet maintain their personalities. 
-> *Thus in a way **consciousness** is *'to be'*, while **intelligence** is the ability *'to do'*.”*
-
-<div class="community-service-media" style="text-align: center;">
-    <img src="/reflections/Conscious1.png" alt="Intelligence" style="width: 60%; height: auto; display: inline-block;">
-</div>
-
-But what makes us conscious in the first place? Is it the mesh of neurons in our brain? Is it the specific pattern of electrons transfer between them? Or is it something non-physical that eludes the physical universe as the dualist would have us believe? If it pertains to neurons, then what if we were to copy and paste the exact structure, would it be copying consciousness? Think about this - If I start replacing the neurons in your brain with exact electronic replicas, at what point would you cease to be you? How long can I go before Ashir forgets that he is Ashir ? Or he is anything at all? What happens when all the neurons are done replaced? All of these questions remain unanswered by present science . Atleast we can say that consciousness isn't in your legs, or heart or livers, because people lose or replace them and they are still them. Or are they ?
-
-If consciousness were to be found in the physical realm, then it got to be (atleast to some extent) associated with the brain. However, even if in the best case scenario, we were able to identify the parts of brain associated with it, it would still be an association and we still wouldn't be able to explain *“what is consciousness in itself”.*
-
-Perhaps at this point it would be worthwhile to try to look at the development of consciousness. Definitely early bacteria and eukaryotic lifeform was not conscious? Then perhaps it got developed over the years somehow, somewhere and in some *'first conscious being'*. Its one thing to be intelligent and search for food, shelter and reproduction - intelligence serves the evolutionary purpose pretty neatly. But to me and most philosphers I have read, its still unclear if any evolutionary purpose is filled by consciousness (*Dawkins is perhaps unable to accept that anything can exists without having explicit evolutionary purpose and thus he is so eager to call AI conscious.*). Ontologically, consciousness serves no purpose what couldn't have been filled by intelligence. Here perhaps it is important to mention that we often find intelligence and conscious together, it should not be assumed as a universal rule though. No one would particularly question the consciousness of natural people or people in coma (although a case could be made to question all nonpersonal consciousness since it is personal experience ). So , at this point, consciousness feels like a concept of extraordinary nature,one that eludes the physical realm and explanation , one that would require eluding to some higher existence/causes for its explanation beyond physical constructs.
+Therefore, in theory, if we had only one sensor that was able to detect a single wavelength of a light, it would be able to detect all colors but it wouldn’t be able to sense purple at all.(and a couple of other lesser knwon colors to for the same reason.)
+> *The experience of colors is radically different from the reality of colors , with some colors like purple , not even existing outside our brain.*
 
 <div class="community-service-media" style="text-align: center;">
-    <img src="/reflections/conscious2.png" alt="Intelligence" style="width: 60%; height: auto; display: inline-block;">
+    <img src="/reflections/purple1.jpg" alt="Intelligence" style="width: 60%; height: auto; display: inline-block;">
 </div>
 
-Preluding to the comment made previously, there can be good reasons to question any external evidence of consciousness. I can think & I can feel my existence, thus I know that I am aware of my existence. TThe very fact that I can doubt my existence presupposes that there must be an 'I' performing the doubt. But no such conclusions could be made about others. There is no feasible and rational way to prove the consciosussness of others. **Cogito, ergo sum** (*I think, therefore I am*) as proposed by Descartes perhaps put it better.
-> *Je doute, donc je pense; je pense, donc je suis.*
+As surprising as this little scientific anecdote is, it raises an even bigger question — *what if everything is purple?* I don’t mean it in a literal sense that everything is painted purple; rather, it is a question of epistemology and ontology. ( *Ontology = what exists? Epistemology = how do we know?* ) What our brains construct as a perception of reality is surprisingly fallible. It is, after all, just a perception. How do we know that, like purple, many of the things we experience are not merely mental constructs? And that these constructs accurately represent reality as it actually is? Our senses are our input, our bridge, our portal to external reality. They perceive physical signals — light, sound, chemicals, etc. and, based on these inputs, they generate electrical signals (essentially time-series-like singnals) and our brain actively processes these signals to construct reality. That’s why I said earlier that *“It creates reality”*.
 
-Returning to our question about AI, I would argue that no amount of intelligence or mimicking of human emotions could defintively establish the consciousness of AI. Consciosssness requires a fundamental self-awareness , an ability to recongnize one's own existence. As of now , neither I nor anyone else in the world fully understands origins or mechanism of this capacity. It is probably not just the neurons , or an algorithm that an AI could replicate . At the same time , the very fact that the concept of conscioussess remains so hard to define , we risk overestimating it and potentially failing to recognize when (and if) it emerges in non-biological entities . 
+For the current discourse , I am not going to indulge in ontological arguments about whether this *“external reality”* is real or not; rather, I am more concerned with the process by which this plausible external reality gets translated into the individual experience of reality. So for this discussion , let us assume that a real-physical external reality exists. 
+
+Imagine a blind person , someone who was born completely blind. The said person has never seen colours, and he asks you to explain what green is like. How would you do that? How could you do that at all? Perhaps tell him about the wavelength and scientifically describe colours, or maybe that it is “calm”, like a breeze or some other poetical expression ? And imagine you tell him everything that has ever been said or written about the colour green; would he come to know the colour? Would he know what green is ? *I think not*. A child who has just seen green for the first time in his life would know more about it than this blind man.
+
+Another possibility is that your experience of green may differ from mine. We may both be responding to light with the same physical properties, yet there is no scientifically plausible way to determine whether the green created in your mind feels the same as the green created in mine. We can compare words, measurements, and reactions, but we cannot directly compare the experiences themselves. In that sense, the reality each of us inhabits is not simply received from the world; it is also constructed within us and is highly subjective.
+
+
+
+<div class="community-service-media" style="text-align: center;">
+    <img src="/reflections/purple2.jpg" alt="Intelligence" style="width: 60%; height: auto; display: inline-block;">
+</div>
+
+Under normal circumstances, there  exists a correlation between the external reality and this individual reality. After all, every time your eyes sense a light of a particular spectrum, it produces a more or less similar individual experience of a colour. Every time you hike up and go near a physical lake, your brain constructs an individual reality and experience of a lake. But it is not impossible to imagine the brain breaking down and constructing individual reality that is disconnected from the physical reality. Travellers in deserts see lakes where none exist (a “purple” lake); you see and feel like falling in your dreams. Psychedelics can alter and introduce entirely new elements into this largely individual construction of reality. We also have examples of people with perfectly functioning eyes who nevertheless cannot perceive parts of their visual field.So that there can exist gaps between the physical world and the reality constructed by the mind.
+
+Alas! What shaky foundations we have got for individuals possessing consciousness and claiming to be the superior , rational beings . If this very consciousness is constructed through the experience of individual reality, then shaky it would be too. (We would discuss the relationship between reality and contruction of consciossness in a future essay) . Or perhaps the very dissociation of physical and individual reality, the very struggle between them, the mental process of continually constructing reality, is what gives us consciousness and makes us human. *A purple reality producing a purple consciousness.*
+
 
 Find the handwritten version of this essay here : 
-[ConsciossnessAndIntelligence]( /reflections/ConsciossnessAndIntelligence.pdf )
+[IsEverythingPurple]( /reflections/IsEverythingPurple.pdf )
 
 </div>
 
