@@ -1,0 +1,12 @@
+{{- $source := .Get "src" -}}
+{{- $image := .Page.Resources.GetMatch $source -}}
+{{- if not $image -}}
+  {{- errorf "career-image shortcode could not find page resource %q in %s" $source .Page.File.Path -}}
+{{- else -}}
+  {{- partial "responsive-image.html" (dict
+    "image" $image
+    "alt" (.Get "alt")
+    "sizes" (printf "(max-width: 640px) calc(100vw - 8rem), (max-width: 900px) calc(50vw - 4.5rem), %spx" (.Get "width"))
+    "style" (printf "width: %spx; height: %spx; object-fit: cover;" (.Get "width") (.Get "height"))
+  ) -}}
+{{- end -}}

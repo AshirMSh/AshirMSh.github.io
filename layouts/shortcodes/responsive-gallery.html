@@ -1,0 +1,37 @@
+{{- $sectionName := .Get "section" -}}
+{{- $sectionPage := site.GetPage (printf "/%s" $sectionName) -}}
+{{- $sources := split (.Get "images") "," -}}
+{{- $alts := split (.Get "alts") "|" -}}
+{{- $layout := .Get "layout" -}}
+{{- $sizes := .Get "sizes" | default "(max-width: 900px) calc(100vw - 2.5rem), 420px" -}}
+{{- $imageStyle := .Get "image-style" -}}
+{{- $galleryClass := .Get "class" | default "community-service-media" -}}
+{{- if not $sectionPage -}}
+  {{- errorf "responsive-gallery shortcode could not find section %q" $sectionName -}}
+{{- end -}}
+{{- if eq $layout "community-service" -}}
+<div class="community-service-layout">
+  <div class="community-service-copy">
+    {{ .Inner | markdownify }}
+  </div>
+  <div class="community-service-media">
+{{- else -}}
+<div class="{{ $galleryClass }}"{{ if .Get "center" }} style="text-align: center;"{{ end }}>
+{{- end -}}
+{{- range $index, $source := $sources -}}
+  {{- $source = trim $source " " -}}
+  {{- $image := $sectionPage.Resources.GetMatch $source -}}
+  {{- if not $image -}}
+    {{- errorf "responsive-gallery shortcode could not find resource %q in section %q" $source $sectionName -}}
+  {{- else -}}
+    {{- $alt := "" -}}
+    {{- if lt $index (len $alts) -}}
+      {{- $alt = index $alts $index -}}
+    {{- end -}}
+    {{- partial "responsive-image.html" (dict "image" $image "alt" $alt "sizes" $sizes "style" $imageStyle) -}}
+  {{- end -}}
+{{- end -}}
+</div>
+{{- if eq $layout "community-service" -}}
+</div>
+{{- end -}}

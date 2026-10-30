@@ -24,10 +24,10 @@ Key achievements include:
 - Led **Hardware‑in‑the‑Loop (HIL)** validation framework development on Speedgoat real‑time hardware — timing analysis, fault injection, and requirements‑based verification.
 - Advancing control strategies for Liquid Cooling systems to optimize thermal inertia for enhanced power quality — an Electrifier Project initiative validated through rigorous validation protocols.
 
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="DC1.jpg" alt="DC1 Opera Photo" style="width: 300px; height: 300px; object-fit: cover;">
-  <img src="DC2.jpg" alt="DC2 Dinner Photo" style="width: 300px; height: 300px; object-fit: cover;">
-</div>
+{{< career-gallery >}}
+{{< career-image src="DC1.jpg" alt="DC1 Opera Photo" width="300" height="300" >}}
+{{< career-image src="DC2.jpg" alt="DC2 Dinner Photo" width="300" height="300" >}}
+{{< /career-gallery >}}
 
 {{< /timelineItem >}}
 
@@ -45,10 +45,10 @@ Download the Detailed Report here :
 
 [📄 Download: Bidirectional EV MCP Research](AshirEVBidirSchneiderElectric.pdf)
 
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="AIHub1.jpg" alt="AIHub1  Photo" style="width: 300px; height: 300px; object-fit: cover;">
-  <img src="AIHub2.png" alt="AIHub2  Photo" style="width: 600px; height: 300px; object-fit: cover;">
-</div>
+{{< career-gallery >}}
+{{< career-image src="AIHub1.jpg" alt="AIHub1  Photo" width="300" height="300" >}}
+{{< career-image src="AIHub2.png" alt="AIHub2  Photo" width="600" height="300" >}}
+{{< /career-gallery >}}
 
 
 {{< /timelineItem >}}
@@ -60,10 +60,10 @@ At the intersection of K State and Black & Veatch, I contributed to advancing se
 - Designed a two‑stage battery management system that demonstrated measurable efficiency gains in field validation.
 -Implemented an ML-based Arc Fault Detection model on STM32 microcontrollers, validated at **98.5% accuracy** with sub-2ms inference latency, meeting safety-critical timing requirements.
 
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="BV1.png" alt="BV1  Photo" style="width: 300px; height: 300px; object-fit: cover;">
-  <img src="BV2.png" alt="AIHub2  Photo" style="width: 400px; height: 300px; object-fit: cover;">
-</div>
+{{< career-gallery >}}
+{{< career-image src="BV1.png" alt="BV1  Photo" width="300" height="300" >}}
+{{< career-image src="BV2.png" alt="AIHub2  Photo" width="400" height="300" >}}
+{{< /career-gallery >}}
 {{< /timelineItem >}}
 
 {{< timelineItem icon="lightbulb" header="Enginnering Intern" badge="Jul 2022 – Aug 2023" subheader="fauji Fertilizers Compnay Limted · Mathelo, Pakistan" md="true" >}}
@@ -74,10 +74,10 @@ and developing heuristic controller software for automation of storage and disch
 - Developed machine learning models to estimate Scope 3 supplier emissions using supplier and CDP data, covering 95% of GHG inventory gaps.
 
 
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="FF1.jpg" alt="BV1  Photo" style="width: 400px; height: 300px; object-fit: cover;">
-  <img src="FF2.jpg" alt="AIHub2  Photo" style="width: 300px; height: 300px; object-fit: cover;">
-</div>
+{{< career-gallery >}}
+{{< career-image src="FF1.jpg" alt="BV1  Photo" width="400" height="300" >}}
+{{< career-image src="FF2.jpg" alt="AIHub2  Photo" width="300" height="300" >}}
+{{< /career-gallery >}}
 {{< /timelineItem >}}
 
 {{< timelineItem icon="lightbulb" header="Enginnering Intern" badge="Jul 2020 – May 2022" subheader="Power Walk - NSTP Startup · Islamabad, Pakistan" md="true" >}}
@@ -88,10 +88,10 @@ At this student-led energy technology startup in Pakistan's premier Science and 
 - Developed CAD-optimized designs for cost-effective manufacturing and scalable deployment across three pilot installation sites in the capital region.
 
 
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="Powerwalk1.jpg" alt="BV1  Photo" style="width: 400px; height: 300px; object-fit: cover;">
-  <img src="PowerWalk2.JPG" alt="AIHub2  Photo" style="width: 300px; height: 300px; object-fit: cover;">
-</div>
+{{< career-gallery >}}
+{{< career-image src="Powerwalk1.jpg" alt="BV1  Photo" width="400" height="300" >}}
+{{< career-image src="PowerWalk2.JPG" alt="AIHub2  Photo" width="300" height="300" >}}
+{{< /career-gallery >}}
 {{< /timelineItem >}}
 
 {{< /timeline >}}
@@ -105,10 +105,10 @@ Nantes, France  || *Sept 2023 – Sept 2025* · CGPA 3.85/4.00
 One of only 2 recipients of the France Excellence for Climate Change Scholarship from Pakistan , an opportunity I'm still thrilled about ! This allowed me to dive into IMT Atlantique's rigorous, well-rounded program.  
 Beyond the technical deep dives into energy markets, economics, predictive modeling, optimization, chemical process electrification, and environmental analysis.The real magic was connecting with brilliant minds from across the globe, building friendships, and gaining fresh perspectives that fundamentally shaped my engineering and personal outlook on life. 
  
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="IMTPhotoOpera.jpg" alt="IMT Opera Photo" style="width: 300px; height: 300px; object-fit: cover;">
-  <img src="IMTPhotoDinner.jpg" alt="IMT Dinner Photo" style="width: 300px; height: 300px; object-fit: cover;">
-</div>
+{{< career-gallery >}}
+{{< career-image src="IMTPhotoOpera.jpg" alt="IMT Opera Photo" width="300" height="300" >}}
+{{< career-image src="IMTPhotoDinner.jpg" alt="IMT Dinner Photo" width="300" height="300" >}}
+{{< /career-gallery >}}
 
 
 **Bachelors In Engineering** — **Kansas State University (K State)**  
@@ -116,19 +116,19 @@ Manhattan, United States  || *May 2022 – Aug 2023* · CGPA 4.00/4.00 (Dean's L
 Awarded a USEFP scholarship from Pakistan, I studied and represented my country in the United States. Kansas turned out to be a hidden gem in the Midwest! I dove deep into electrical vehicles and battery systems, and was part of the BAJA team.   
 On the side, I explored philosophy through courses and events and represented K-State's debate team across North America—ultimately reaching the finals of the North American BP Debates in Seattle in 2022.
 
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="KSTATEPhoto2.jpg" alt="KSTATEPhoto1 Opera Photo" style="width: 300px; height: 300px; object-fit: cover;">
-  <img src="KSTATEPhoto1.jpg" alt="KSTATEPhoto1 Dinner Photo" style="width: 300px; height: 300px; object-fit: cover;">
-</div>
+{{< career-gallery >}}
+{{< career-image src="KSTATEPhoto2.jpg" alt="KSTATEPhoto1 Opera Photo" width="300" height="300" >}}
+{{< career-image src="KSTATEPhoto1.jpg" alt="KSTATEPhoto1 Dinner Photo" width="300" height="300" >}}
+{{< /career-gallery >}}
 
 **Bachelors In Mechanical Engineering** — **National University of Sciences and Technology (NUST)**  
 Islamabad, Pakistan  || *Aug 2019 – April 2022* · CGPA 3.94/4.00 ( Double Gold Medal)  
 Getting into NUST was a watershed moment , it felt like winning the lottery in the small town of mine! Suddenly I was surrounded by some of the sharpest minds I've encountered anywhere (and I've travelled quite a bit by now). The energy, ambition, and intellectual rigor were intoxicating.  
 Against all odds, I managed to top my batch , earning one Gold Medal for that achievement , and the faculty voted me the best graduate of the year, a distinction that came with another Gold Medal and a commemorative pen. Still surreal, honestly. 
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="NUSTPhotoAward.jpg" alt="Nust Award Photo" style="width: 300px; height: 300px; object-fit: cover;">
-  <img src="NUSTPlacAward.jpg" alt="NUSTPlacAward Photo" style="width: 300px; height: 300px; object-fit: cover;">
-</div>
+{{< career-gallery >}}
+{{< career-image src="NUSTPhotoAward.jpg" alt="Nust Award Photo" width="300" height="300" >}}
+{{< career-image src="NUSTPlacAward.jpg" alt="NUSTPlacAward Photo" width="300" height="300" >}}
+{{< /career-gallery >}}
 
 ## Core Skills
 

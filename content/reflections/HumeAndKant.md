@@ -24,9 +24,7 @@ Hume argues that all morality is based on sentiments. He wrote that *“Reason i
 > *is morality forged in reason’s quiet fire—*  
 > *or shaped by the feelings we carry there?*
 
-<div class="community-service-media" style="text-align: center;">
-    <img src="/reflections/morality1.jpg" alt="Intelligence" style="width: 60%; height: auto; display: inline-block;">
-</div>
+{{< responsive-gallery section="reflections" images="morality1.jpg" alts="Intelligence" center="true" image-style="width: 60%; height: auto; display: inline-block;" sizes="(max-width: 900px) calc(100vw - 6.5rem), 60vw" />}}
 
 Kant was deeply troubled by Hume’s theory when he encountered it during his studies in Germany. Hume’s skepticism challenged the foundations of Kant’s worldview, particularly his beliefs, which were deeply rooted in Christian values. Kant spent years grappling with Hume’s arguments and attempting to refute them, as they posed a profound threat to his personal, religious, and social convictions. It somehow subjectified morality, the distinction between right and wrong became a smatter of feelings and in the absence of an objective morality, what role does religion possibly play but to be a tool for the desires, as Hume presumed?
 
@@ -37,9 +35,7 @@ It is essentially the centuries-old rule: do unto others what you would wish to 
 
 > *What is not good for the swarm, is not good for the bee.*
 
-<div class="community-service-media" style="text-align: center;">
-    <img src="/reflections/morality3.jpg" alt="Intelligence" style="width: 60%; height: auto; display: inline-block;">
-</div>
+{{< responsive-gallery section="reflections" images="morality3.jpg" alts="Intelligence" center="true" image-style="width: 60%; height: auto; display: inline-block;" sizes="(max-width: 900px) calc(100vw - 6.5rem), 60vw" />}}
 
 Another distinction between Hume’s and Kant’s theories, as discussed earlier, is “will” or “intention.” Consider two cases. In Case A, someone sitting by a window intentionally drops his laptop to kill a person below. In Case B, the laptop is dropped by accident and unintentionally falls on someone’s head, killing him. According to Hume’s framework, these two cases are almost the same and equally immoral, since both create disgust or disapproval and sympathy for the victim (you might argue that knowing Case B was accidental slightly reduces disgust, but not by much). For Kant, however, the two cases are completely different. The person in Case B had no intention to kill, so he is morally blameless.
 

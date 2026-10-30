@@ -19,9 +19,7 @@ The first and the oldest of the three is the Kalam Argument. As the name suggest
 
 
 
-<div class="community-service-media" style="text-align: center;">
-    <img src="/reflections/cosmos2.jpg" alt="Intelligence" style="width: 60%; height: auto; display: inline-block;">
-</div>
+{{< responsive-gallery section="reflections" images="cosmos2.jpg" alts="Intelligence" center="true" image-style="width: 60%; height: auto; display: inline-block;" sizes="(max-width: 900px) calc(100vw - 6.5rem), 60vw" />}}
 
 The second argument is widely popularizd by Thomas Aquinas . At first, it may be easy to confuse it with the Kalam argument, but the difference is subtle yet significant. Instead of reasoning in the temporal dimension (which raises many questions about the nature of time), it tries to reason along the spatial dependency dimension , in terms of dependency and causation. Consider this: I am holding a pen; the pen depends on my hand;my hand depends on my arm; I depend on the ground/chair where I sit; the ground depends on Earth’s structure, and so on.Each element in this chain depends on something else for its existence or activity. By following this reasoning, we must approach a cause that is not dependent on any other cause (assumes that an infinite regression of causes is not possible); thus, at this very moment, there must exist a *“first cause”* or *"unmoved mover"* that is continuously sustaining everything. It does not explicitly depend on time and does not require the first cause to be the first event *in time*,but claims that a non-dependent clause must exists here and now.  Nevertheless , when the question of the birth of the universe is concerned, its response is rather similar to that of Kalam.
 
@@ -31,9 +29,7 @@ The third and perhaps a bit different argument comes from Leibniz. Consider any 
 
 
 
-<div class="community-service-media" style="text-align: center;">
-    <img src="/reflections/cosmos1.png" alt="Intelligence" style="width: 60%; height: auto; display: inline-block;">
-</div>
+{{< responsive-gallery section="reflections" images="cosmos1.png" alts="Intelligence" center="true" image-style="width: 60%; height: auto; display: inline-block;" sizes="(max-width: 900px) calc(100vw - 6.5rem), 60vw" />}}
 
 One aspect that you might have already picked is that these arguments (particularly Kalam and Aquinas) have an implicit assumption that “infinity” cannot exist in the realm of reality. They establish that one cannot have infinite regression of causes in temporal or spatial sense; thus, there must be a *“first mover”* or an *"unmoved mover"* .Atheists raise their concern on this assumption on the basis of 3 arguments: 1) How can we be certain that infinity doesn’t exist? 2) If this first cause exists beyond space and time, then wouldn’t its existence preclude its infinity? 3) Even if there was a first cause, how does it qualify as the modern, Abrahamic God? The last two concerns apply to Leibniz as well. I shall try to come back and address these questions in a future essay.
 

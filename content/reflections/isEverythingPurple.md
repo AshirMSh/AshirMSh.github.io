@@ -18,9 +18,7 @@ Colours are yet another fascinating thing, in all their simple beauty , they hol
 Therefore, in theory, if we had only one sensor that was able to detect a single wavelength of light at a time, it would be able to detect all colors but it wouldn’t be able to sense purple (and a couple of other similar colors) at all.
 > *The experience of colors is radically different from the reality of colors , with some colors like purple , not even existing outside our brain.*
 
-<div class="community-service-media" style="text-align: center;">
-    <img src="/reflections/purple1.jpg" alt="Intelligence" style="width: 60%; height: auto; display: inline-block;">
-</div>
+{{< responsive-gallery section="reflections" images="purple1.jpg" alts="Intelligence" center="true" image-style="width: 60%; height: auto; display: inline-block;" sizes="(max-width: 900px) calc(100vw - 6.5rem), 60vw" />}}
 
 As surprising as this little scientific anecdote is, it raises an even bigger question — *what if everything is purple?* I don’t mean it in a literal cartoonish sense that everything is painted purple; rather, it is a question of epistemology and ontology. ( *Ontology = what exists? Epistemology = how do we know?* ) What our brains construct as a perception of reality is surprisingly fallible. It is, after all, just a perception. How do we know that, like purple, many of the things we experience are not merely mental constructs? And that these constructs accurately represent reality as it actually is? Our senses are our input, our bridge, our portal to external reality. They perceive physical signals like light, sound, chemicals, etc. and, based on these inputs, they generate electrical signals (essentially time-series-like singnals) and our brain actively processes these signals to construct reality. That’s why I said earlier that *“It creates reality”*.
 
@@ -32,9 +30,7 @@ Another possibility to consider is that your experience of green may differ dras
 
 
 
-<div class="community-service-media" style="text-align: center;">
-    <img src="/reflections/purple2.jpg" alt="Intelligence" style="width: 60%; height: auto; display: inline-block;">
-</div>
+{{< responsive-gallery section="reflections" images="purple2.jpg" alts="Intelligence" center="true" image-style="width: 60%; height: auto; display: inline-block;" sizes="(max-width: 900px) calc(100vw - 6.5rem), 60vw" />}}
 
 Under normal circumstances, there  exists a correlation between the external reality and this individual reality. After all, every time your eyes sense a light of a particular spectrum, it produces a more or less similar individual experience of a colour. Every time you hike up and go near a physical lake, your brain constructs an individual reality and experience of a lake. But it is not impossible to imagine the brain breaking down and constructing individual reality that is disconnected from the physical reality. Travellers in deserts see lakes where none exist (*a “purple” lake*) , you see and feel like falling in your dreams. Psychedelics can alter and introduce entirely new elements into this largely individual construction of reality. We also have examples of people with perfectly functioning eyes who nevertheless cannot perceive parts of their visual field.So, it is entirely possible for gaps to exist between the physical world and the reality constructed by the mind , between the external reality and the individual reality.
 

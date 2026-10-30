@@ -10,14 +10,6 @@ showTableOfContents: false
 showfigure: true
 ---
 
-<div class="community-service-layout">
-  <div class="community-service-copy">
-    My first international experience unfolded like an adventure I never expected. I was fortunate to meet incredible people who became lifelong friends. Through shared moments, challenges, and laughter, I discovered a different version of myself—one that emerged stronger, wiser, and undeniably better. This journey transformed not just how I see the world, but who I am within it.
-  </div>
-  <div class="community-service-media">
-    <img src="/wanderings/USA1.JPG" alt="Deabtes Opera Photo">
-    <img src="/wanderings/USA2.jpg" alt="Debates USA  Photo">
-    <img src="/wanderings/USA3.JPG" alt="Debates Dinner Photo">
-    <img src="/wanderings/USA4.jpeg" alt="NUST Dinner Photo">
-  </div>
-</div>
+{{< responsive-gallery section="wanderings" layout="community-service" images="USA1.JPG,USA2.jpg,USA3.JPG,USA4.jpeg" alts="Deabtes Opera Photo|Debates USA Photo|Debates Dinner Photo|NUST Dinner Photo" >}}
+My first international experience unfolded like an adventure I never expected. I was fortunate to meet incredible people who became lifelong friends. Through shared moments, challenges, and laughter, I discovered a different version of myself—one that emerged stronger, wiser, and undeniably better. This journey transformed not just how I see the world, but who I am within it.
+{{< /responsive-gallery >}}

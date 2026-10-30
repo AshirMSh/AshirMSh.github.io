@@ -10,14 +10,6 @@ showTableOfContents: false
 showfigure: true
 ---
 
-<div class="community-service-layout">
-  <div class="community-service-copy">
-    Ironically , the smartest and the dumbest people I have had the privilege to meet . NUST openend me to a whole new world , gave new prepectives , ideas and tools to understand the world.
-  </div>
-  <div class="community-service-media">
-    <img src="/wanderings/NUST1.JPG" alt="Deabtes Opera Photo">
-    <img src="/wanderings/NUST4.jpeg" alt="Debates Dinner Photo">
-    <img src="/wanderings/NUST2.jpeg" alt="Debates Dinner Photo">
-    <img src="/wanderings/NUST3.jpeg" alt="NUST Dinner Photo">
-  </div>
-</div>
+{{< responsive-gallery section="wanderings" layout="community-service" images="NUST1.JPG,NUST4.jpeg,NUST2.jpeg,NUST3.jpeg" alts="Deabtes Opera Photo|Debates Dinner Photo|Debates Dinner Photo|NUST Dinner Photo" >}}
+Ironically , the smartest and the dumbest people I have had the privilege to meet . NUST openend me to a whole new world , gave new prepectives , ideas and tools to understand the world.
+{{< /responsive-gallery >}}

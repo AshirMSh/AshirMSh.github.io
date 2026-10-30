@@ -1,0 +1,23 @@
+{{- $image := .image -}}
+{{- $srcset := slice -}}
+{{- $default := $image.RelPermalink -}}
+{{- range (slice 480 640 800 1200) -}}
+  {{- if gt $image.Width . -}}
+    {{- $variant := $image.Resize (printf "%dx webp q82" .) -}}
+    {{- $srcset = $srcset | append (printf "%s %dw" $variant.RelPermalink $variant.Width) -}}
+    {{- if eq . 480 -}}
+      {{- $default = $variant.RelPermalink -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $srcset = $srcset | append (printf "%s %dw" $image.RelPermalink $image.Width) -}}
+<img
+  src="{{ $default }}"
+  srcset="{{ delimit $srcset ", " }}"
+  sizes="{{ .sizes | default `(max-width: 900px) calc(100vw - 2.5rem), 420px` }}"
+  width="{{ $image.Width }}"
+  height="{{ $image.Height }}"
+  {{ with .style }}style="{{ . | safeCSS }}"{{ end }}
+  alt="{{ .alt }}"
+  loading="lazy"
+  decoding="async">

@@ -235,6 +235,10 @@ html.dark .site-section-reflections blockquote {
   min-width: 0;
 }
 
+.site-section-wanderings .community-service-copy p {
+  margin: 0;
+}
+
 .site-section-wanderings .community-service-media {
   display: flex;
   flex-direction: column;
@@ -270,6 +274,63 @@ html.dark .site-section-reflections blockquote {
 
   .site-section-wanderings .community-service-media img {
     max-width: 100%;
+  }
+}
+
+.site-section-vocation .career-gallery {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.site-section-vocation .career-gallery > p {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin: 0;
+  width: 100%;
+}
+
+@media (min-width: 641px) and (max-width: 900px) {
+  .site-section-vocation .career-gallery > p {
+    min-width: 0;
+  }
+
+  .site-section-vocation .career-gallery img {
+    flex: 0 1 calc(50% - 10px);
+    width: calc(50% - 10px) !important;
+    max-width: calc(50% - 10px);
+    height: auto !important;
+    object-fit: contain !important;
+  }
+}
+
+@media (max-width: 640px) {
+  .site-section-vocation ol.border-s-2 > li > .flex > .ms-6.mb-10.break-words {
+    margin-inline-start: 0.75rem;
+    padding: 1rem;
+  }
+
+  .site-section-vocation .career-gallery {
+    min-width: 0;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+  }
+
+  .site-section-vocation .career-gallery > p {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+  }
+
+  .site-section-vocation .career-gallery img {
+    display: block;
+    width: 100% !important;
+    max-width: 100%;
+    height: auto !important;
+    object-fit: contain !important;
   }
 }
 
